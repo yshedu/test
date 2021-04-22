@@ -1,0 +1,36 @@
+  if(LandmarkEngine.getInstance().pictureAngle == 180){
+            mStickerVertices[4] = anchorX - ndcStickerWidth; mStickerVertices[5] = anchorY - ndcStickerHeight;
+            mStickerVertices[6] = anchorX + ndcStickerWidth; mStickerVertices[7] = anchorY - ndcStickerHeight;
+            mStickerVertices[0] = anchorX - ndcStickerWidth; mStickerVertices[1] = anchorY + ndcStickerHeight;
+            mStickerVertices[2] = anchorX + ndcStickerWidth; mStickerVertices[3] = anchorY + ndcStickerHeight;
+        }else if(LandmarkEngine.getInstance().pictureAngle == 90){
+            mStickerVertices[4] = anchorX - ndcStickerHeight; mStickerVertices[5] =anchorY - ndcStickerWidth ;
+            mStickerVertices[6] = anchorX - ndcStickerHeight; mStickerVertices[7] =anchorY + ndcStickerWidth ;
+            mStickerVertices[0] =anchorX + ndcStickerHeight ; mStickerVertices[1] = anchorY - ndcStickerWidth;
+            mStickerVertices[2] = anchorX + ndcStickerHeight; mStickerVertices[3] = anchorY + ndcStickerWidth;
+        }else if(LandmarkEngine.getInstance().pictureAngle == 270){
+            float tem;
+            mStickerVertices[0] = anchorX - ndcStickerHeight; mStickerVertices[1] =anchorY - ndcStickerWidth ;
+            mStickerVertices[2] = anchorX - ndcStickerHeight; mStickerVertices[3] =anchorY + ndcStickerWidth ;
+            mStickerVertices[4] =anchorX + ndcStickerHeight ; mStickerVertices[5] = anchorY - ndcStickerWidth;
+            mStickerVertices[6] = anchorX + ndcStickerHeight; mStickerVertices[7] = anchorY + ndcStickerWidth;
+
+
+        }
+
+
+服务器
+
+192.168.1.111
+WIN10
+123456
+
+
+ 83133018227708f314a80fa19ee787a6dc9c65c5 
+
+
+https://scpic.chinaz.net/files/pic/pic9/201808/zzpic13310.jpg
+over!!! 000000008958.jpg
+https://sc.chinaz.com/tupian/renwutupian_225.html
+https://scpic.chinaz.net/files/pic/pic9/201808/zzpic13312.jpg
+over!!! 000000008959.jpg
